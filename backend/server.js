@@ -15,7 +15,7 @@ if (process.env.NODE_ENV !== "PRODUCTION") {
     });
 };
 
-// connect db
+// connect db here .
 connectDatabase();
 
 
